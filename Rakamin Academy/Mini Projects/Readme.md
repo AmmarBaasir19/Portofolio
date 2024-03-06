@@ -6,7 +6,7 @@ Ini merupakan proyek portofolio yang telah saya kerjakan, proyek yang saya kerja
 ## Proyek Terbaru
 Berikut adalah beberapa proyek terbaru yang telah saya kerjakan : 
 1. **Analyzing eCommerce Business Performance with SQL**
-   Deskripsi : Proyek ini merupakan proyek analisis, dimana posisi saya dalam kasus ini adalah sebagai seorang data analytics di sebuah perusahaan eCommerce. Perusahaan ini merupakan salah satu marketplace terbesar di Amerika Selatan yang menghubungkan pelaku bisnis mikro dengan para pelanggannya.
+   Deskripsi : Proyek ini merupakan proyek analisis, dimana posisi saya dalam kasus ini adalah sebagai seorang data analytics di sebuah perusahaan eCommerce. Perusahaan ini merupakan salah satu marketplace terbesar di Amerika Selatan yang menghubungkan pelaku bisnis mikro dengan para pelanggannya.<br>
 Teknologi yang digunakan : Python, Postgresql
 3. **Investigate Hotel Business using Data Visualization**
    Deskripsi : Comming Soon
